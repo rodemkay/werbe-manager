@@ -1,0 +1,18 @@
+.promo-slot {
+    width: 100%;
+    margin: 0 0 24px;
+}
+
+.promo-unit {
+    position: relative;
+}
+
+.promo-unit img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.promo-slot .robocard {
+    width: 100%;
+}
